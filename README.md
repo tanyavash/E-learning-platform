@@ -22,14 +22,14 @@ This project is a backend API for an e-learning platform, developed to facilitat
 ## Additional Note for .env File
 
 -Please ensure to create a .env file in the project root directory and include the necessary environment variables:
-PORT 
-ACCESS_TOKEN_SECRET
-PGHOST
-PGDATABASE
-PGUSER
-PGPASSWORD
-EMAIL_USER=your_email_address
-EMAIL_PASS=your_email_password
+   -PORT 
+   -ACCESS_TOKEN_SECRET
+   -PGHOST
+   -PGDATABASE
+   -PGUSER
+   -PGPASSWORD
+   -EMAIL_USER=your_email_address
+   -EMAIL_PASS=your_email_password
 These environment variables are crucial for the proper functioning of the backend API, especially for database connection, JWT token generation, and email sending functionality.
 
 
