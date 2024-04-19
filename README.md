@@ -7,7 +7,7 @@ This project is a backend API for an e-learning platform, developed to facilitat
 
 -Database: Used neon.tech database for storing user information, course details, and enrollment data.
 -Email INtegration: Integrated Nodemailer for handling email communications, including user registration & logging confirmation, update confirmation and course enrollment notifications. 
-(*It was mentioned to use resend.com's email service but despite trying it various ways it was not being integrated)
+
 
 ## Security and Authentication
 
