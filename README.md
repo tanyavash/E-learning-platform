@@ -1,4 +1,4 @@
-## E-learning Platform Backend API
+# E-learning Platform Backend API
 
 ## Project Overview
 This project is a backend API for an e-learning platform, developed to facilitate user registration, user profile management, course management, and user enrollment functionalities. It also includes features such as course filtering, pagination, secure authentication, error handling, and logging. The API is designed to be scalable, secure, and efficient, catering to the needs of both users and administrators.
